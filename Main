@@ -1,4 +1,4 @@
--- [[ BOOGA AUTOBROLY V10 ]]
+-- [[ Axel AutoBrolyV3 ]]
 Settings = {
     Transform = true; -- [[ Will transform you on broly world ]]
     ChargeTime = 3; -- [[ Time to charge ]]
